@@ -1,6 +1,4 @@
 # Gym_Management
-Gym_Management
-## Gym Management System
 
 A secure and efficient Gym Management System developed to streamline gym operations such as member management, membership tracking, attendance handling, and authentication. The project is built using REST APIs, SQL database integration, and JWT-based authentication to ensure secure access and smooth data management.
 
